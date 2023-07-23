@@ -617,3 +617,4 @@ function cleanup_deluge() {
         fi
     done
     echo_progress_done
+}
